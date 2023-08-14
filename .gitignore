@@ -4,3 +4,7 @@ local/
 lib/
 /backend/db.sqlite3
 __pycache__/
+local/
+lib/
+backend/db.sqlite3
+__pycache__/
